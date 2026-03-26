@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bora Date</string>
+    <string name="title_activity_main">Bora Date</string>
+    <string name="package_name">com.boradate.app</string>
+    <string name="custom_url_scheme">com.boradate.app</string>
+</resources>
